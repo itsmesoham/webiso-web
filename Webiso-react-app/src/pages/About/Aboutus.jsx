@@ -2,7 +2,7 @@ import React from 'react'
 import Title from '../../components/Title'
 import About from '../../components/About'
 import Slider from '../../components/Slider'
-import Start from '../../components/start'
+import Start from '../../components/Start'
 import Team from '../../components/Team'
 
 function Aboutus() {

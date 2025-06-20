@@ -2,7 +2,7 @@ import React from 'react'
 import Title from '../../components/Title'
 import Products from '../../components/Products'
 import Slider from '../../components/Slider'
-import Start from '../../components/start'
+import Start from '../../components/Start'
 import Review from '../../components/Review'
 
 function Projects() {
